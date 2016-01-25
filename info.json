@@ -1,0 +1,24 @@
+{
+  "name": "bobathon",
+  "version": "0.1.0",
+  "title": "Bobathon",
+  "author": "Wulfson",
+  "homepage": " ",
+  "description": "Provides Marathon compatibility to Bob's Mods.",
+  "dependencies": [
+    "? bobassembly >= 0.12.7",
+    "? bobconfig >= 0.12.2",
+    "? bobelectronics >= 0.12.6",
+    "? bobenemies >= 0.12.6",
+    "? boblibrary >= 0.12.3",
+    "? boblogistics >= 0.12.7",
+    "? bobmining >= 0.12.3",
+    "? bobmodules >= 0.12.9",
+    "? bobores >= 0.12.7",
+    "? bobplates >= 0.12.10",
+    "? bobpower >= 0.12.6",
+    "? bobtech >= 0.12.4",
+    "? bobwarfare >= 0.12.9",
+    "? marathon >= 0.5.4"
+  ]
+}
